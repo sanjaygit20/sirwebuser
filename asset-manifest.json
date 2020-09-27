@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sirwebuser/static/css/main.1aefd48c.chunk.css",
+    "main.js": "/sirwebuser/static/js/main.d08ab9c7.chunk.js",
+    "main.js.map": "/sirwebuser/static/js/main.d08ab9c7.chunk.js.map",
+    "runtime-main.js": "/sirwebuser/static/js/runtime-main.b5749dd6.js",
+    "runtime-main.js.map": "/sirwebuser/static/js/runtime-main.b5749dd6.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/sirwebuser/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.6d554cab.chunk.js": "/sirwebuser/static/js/2.6d554cab.chunk.js",
+    "static/js/2.6d554cab.chunk.js.map": "/sirwebuser/static/js/2.6d554cab.chunk.js.map",
+    "index.html": "/sirwebuser/index.html",
+    "precache-manifest.aff0b1ad4e91087735355579f7c7565b.js": "/sirwebuser/precache-manifest.aff0b1ad4e91087735355579f7c7565b.js",
+    "service-worker.js": "/sirwebuser/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/sirwebuser/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.1aefd48c.chunk.css.map": "/sirwebuser/static/css/main.1aefd48c.chunk.css.map",
+    "static/js/2.6d554cab.chunk.js.LICENSE.txt": "/sirwebuser/static/js/2.6d554cab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sirwebuser/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5749dd6.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.6d554cab.chunk.js",
+    "static/css/main.1aefd48c.chunk.css",
+    "static/js/main.d08ab9c7.chunk.js"
+  ]
+}
